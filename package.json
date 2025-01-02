@@ -51,7 +51,7 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.8",
     "@web/dev-server-rollup": "^0.6.4",
-    "@web/test-runner": "^0.18.2",
+    "@web/test-runner": "^0.19.0",
     "@web/test-runner-playwright": "^0.11.0",
     "esbuild": "^0.23.0",
     "eslint": "^8.57.0",
